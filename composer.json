@@ -1,5 +1,5 @@
 {
-    "name":         "cybernox/amazon-webservices-bundle",
+    "name":         "swivl/amazon-webservices-bundle",
     "description":  "A Symfony2 Bundle for interfacing with Amazon Web Services (AWS)", 
     "keywords":     ["amazon", "aws", "web services"],
     "license":      "BSD",
